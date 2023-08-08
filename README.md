@@ -1,2 +1,2 @@
-# Restaurant-POS
-Restaurant Inventory and Billing system
+# Chatbot
+Simple Chatbot system
